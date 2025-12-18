@@ -22,13 +22,13 @@ This project is a simplified AI-powered knowledge search interface for customer 
 - Functional components with hooks
 - Basic CSS (no external UI framework)
 
-## Architecture Document
+## Architecture Documentation
 
 A high-level architecture document describing the design and components is available here:
 
 - [AI-Powered Knowledge Search Platform (PDF)](./architecture/AI-Powered%20Knowledge%20Search%20Platform.pdf)
 
-## API
+## API Documentation
 
 The OpenAPI specification for the Knowledge Management API is available here:
 
