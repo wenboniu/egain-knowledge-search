@@ -38,6 +38,9 @@ The OpenAPI specification for the Knowledge Management API is available here:
 
 ```bash
 cd frontend
+npm install react react-dom
+npm install --save-dev @types/react @types/react-dom
+npm install @vitejs/plugin-react --save-dev
 npm install
 npm run dev
 ```
